@@ -458,11 +458,15 @@ p { color: var(--text-secondary); }
 
 /* Enlarge these specific logos */
 .partner-logo img[src*="IHG_logo"],
+.partner-logo img[src*="Traveloka_logo"],
+.partner-logo img[src*="GRN_Connect_logo"],
+.partner-logo img[src*="MIKI_logo"],
+.partner-logo img[src*="Dida_Travel"],
+.partner-logo img[src*="Hyatt_logo"],
 .partner-logo img[src*="MakeMyTrip_logo"],
-.partner-logo img[src*="Rakuten_logo"],
-.partner-logo img[src*="Traveloka_logo"] {
-    max-width: 150%;
-    max-height: 150%;
+.partner-logo img[src*="Rakuten_logo"] {
+    max-width: 180%;
+    max-height: 180%;
 }
 
 /* Section Styles */
