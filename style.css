@@ -461,8 +461,8 @@ p { color: var(--text-secondary); }
 .partner-logo img[src*="MakeMyTrip_logo"],
 .partner-logo img[src*="Rakuten_logo"],
 .partner-logo img[src*="Traveloka_logo"] {
-    max-width: 120%;
-    max-height: 120%;
+    max-width: 150%;
+    max-height: 150%;
 }
 
 /* Section Styles */
