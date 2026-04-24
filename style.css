@@ -469,6 +469,13 @@ p { color: var(--text-secondary); }
     max-height: 180%;
 }
 
+/* Super enlarge these two */
+.partner-logo img[src*="GRN_Connect_logo"],
+.partner-logo img[src*="Dida_Travel"] {
+    max-width: 250%;
+    max-height: 250%;
+}
+
 /* Section Styles */
 .section-header {
     text-align: center;
